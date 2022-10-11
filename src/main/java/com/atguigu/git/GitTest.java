@@ -13,6 +13,5 @@ public class GitTest {
         System.out.println("hello git4");
         System.out.println("pull git");
         System.out.println("push git");
-        System.out.println("gitee git");
     }
 }
